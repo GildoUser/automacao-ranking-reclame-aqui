@@ -6,7 +6,7 @@ O objetivo principal é entrar no site https://www.reclameaqui.com.br/ranking/
 e coletar informações sobre os tópicos e suas empresas
 
 
-existem infinitas possibilidades de melhoria, quem sabe numa outra oportunidade...
+existem infinitas possibilidades de melhoria (disponibilizar rotas pra o crud e fazer tudo mais bonitinho e organizado), quem sabe numa outra oportunidade...
 o processo foi incrível
 
 Agradecimento especial: Guilherme Parnaíba
