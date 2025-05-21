@@ -1,5 +1,5 @@
-# automacao-ranking-reclame-aqui
  autor Gildo
+# automacao-ranking-reclame-aqui
 automação web de coleta de dados ( Ranking de empresas Reclame Aqui )
 
 O objetivo principal é entrar no site https://www.reclameaqui.com.br/ranking/
