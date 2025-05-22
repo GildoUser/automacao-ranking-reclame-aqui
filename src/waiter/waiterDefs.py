@@ -41,7 +41,6 @@ class WaiterSecDefs:
     
     #oferece mensagem de acordo com o is regular
     def OfferMessage(self):
-        #se next_is_even = True, a func define como False
         self.DefineEvenOrOdd()
         self.littleAlert()
 
@@ -71,7 +70,6 @@ class WaiterSecDefs:
         if self.is_regular:
            # topic_list = WebHunter.getTopicList()
             for topic in self.topic_list: 
-                #+1 por causa de ser local o db
                 print(str(topic["id"]) + ")-> " + topic["topic_name"])
                 if number == 2:
                     for topic_item in topic["topic_companies"]:
@@ -79,8 +77,7 @@ class WaiterSecDefs:
 
                 print("----"*23)
                         
-            #entra true sai false
-            user_choice = self.OfferMessage()#is regular vira False aqui pois ja nao é mais regular
+            user_choice = self.OfferMessage()
             return user_choice
            # WebHunter.getTopic(user_choice)#printa topico x e empresas
             #nesse ponto is even = false
