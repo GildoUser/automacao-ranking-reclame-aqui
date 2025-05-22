@@ -20,4 +20,8 @@ Agradecimento especial: Guilherme Parnaíba
 #se estiver em windows:
   # .\ambvir\Scripts\activate.ps1
 
+pip install -r requirements.txt
+
+# iniciar o programa
+python main.py
   
