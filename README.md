@@ -1,6 +1,6 @@
  autor Gildo
 # automacao-ranking-reclame-aqui
-automação web de coleta de dados ( Ranking de empresas Reclame Aqui )
+modelo exemplo automação web de coleta de dados ( Ranking de empresas Reclame Aqui ) - 
 
 O objetivo principal é entrar no site https://www.reclameaqui.com.br/ranking/
 e coletar informações sobre os tópicos e suas empresas
